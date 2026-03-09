@@ -1,0 +1,17 @@
+[
+  {
+    "file": "D:\\UCU\\algorithms\\homework1\\homework_shevchuk.cpp",
+    "command": "\"C:\\mingw64\\bin\\c++.exe\" \"D:\\UCU\\algorithms\\homework1\\homework_shevchuk.cpp\" -g -std\u003dgnu++14 -fdiagnostics-color\u003dalways",
+    "directory": "D:\\UCU\\algorithms\\homework1"
+  },
+  {
+    "file": "D:\\UCU\\algorithms\\homework1\\main.cpp",
+    "command": "\"C:\\mingw64\\bin\\c++.exe\" \"D:\\UCU\\algorithms\\homework1\\main.cpp\" -g -std\u003dgnu++14 -fdiagnostics-color\u003dalways",
+    "directory": "D:\\UCU\\algorithms\\homework1"
+  },
+  {
+    "file": "D:\\UCU\\algorithms\\homework1\\benchmark.cpp",
+    "command": "\"C:\\mingw64\\bin\\c++.exe\" \"D:\\UCU\\algorithms\\homework1\\benchmark.cpp\" -g -std\u003dgnu++14 -fdiagnostics-color\u003dalways",
+    "directory": "D:\\UCU\\algorithms\\homework1"
+  }
+]
